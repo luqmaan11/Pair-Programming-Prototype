@@ -50,3 +50,5 @@
 - Replace the mocked autocomplete with a real model/service.
 - Add tests plus production build scripts/docker.
 - Support room history and conflict resolution beyond last-write-wins.
+- Try to replicate a more IDE type feel on the frontend.
+- Run code with shared output and download data feature.
